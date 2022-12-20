@@ -1,0 +1,15 @@
+C:\Users\ptsev\Desktop\TsevelovHomeWork\bin\Debug\net6.0\TsevelovHomeWork.exe
+C:\Users\ptsev\Desktop\TsevelovHomeWork\bin\Debug\net6.0\TsevelovHomeWork.deps.json
+C:\Users\ptsev\Desktop\TsevelovHomeWork\bin\Debug\net6.0\TsevelovHomeWork.runtimeconfig.json
+C:\Users\ptsev\Desktop\TsevelovHomeWork\bin\Debug\net6.0\TsevelovHomeWork.dll
+C:\Users\ptsev\Desktop\TsevelovHomeWork\bin\Debug\net6.0\TsevelovHomeWork.pdb
+C:\Users\ptsev\Desktop\TsevelovHomeWork\obj\Debug\net6.0\TsevelovHomeWork.csproj.AssemblyReference.cache
+C:\Users\ptsev\Desktop\TsevelovHomeWork\obj\Debug\net6.0\TsevelovHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptsev\Desktop\TsevelovHomeWork\obj\Debug\net6.0\TsevelovHomeWork.AssemblyInfoInputs.cache
+C:\Users\ptsev\Desktop\TsevelovHomeWork\obj\Debug\net6.0\TsevelovHomeWork.AssemblyInfo.cs
+C:\Users\ptsev\Desktop\TsevelovHomeWork\obj\Debug\net6.0\TsevelovHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\ptsev\Desktop\TsevelovHomeWork\obj\Debug\net6.0\TsevelovHomeWork.dll
+C:\Users\ptsev\Desktop\TsevelovHomeWork\obj\Debug\net6.0\refint\TsevelovHomeWork.dll
+C:\Users\ptsev\Desktop\TsevelovHomeWork\obj\Debug\net6.0\TsevelovHomeWork.pdb
+C:\Users\ptsev\Desktop\TsevelovHomeWork\obj\Debug\net6.0\TsevelovHomeWork.genruntimeconfig.cache
+C:\Users\ptsev\Desktop\TsevelovHomeWork\obj\Debug\net6.0\ref\TsevelovHomeWork.dll
